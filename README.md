@@ -82,7 +82,7 @@ Construir uma comunidade forte de desenvolvedores capazes de criar sistemas **se
 
 ## ⚡ Lema
 
-> "Code. Secure. Evolve." 🔥
+> "sempre evoluindo" 🔥
 
 ---
 
